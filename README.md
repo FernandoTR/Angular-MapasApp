@@ -13,6 +13,7 @@ Este es un breve listado de los temas fundamentales:
 9. @types.
 10. Zoom.
 11. Range.
+12. Standalone Components
 
 
 ## Pasos:
